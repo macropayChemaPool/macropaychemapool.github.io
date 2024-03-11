@@ -1,5 +1,5 @@
 /// <reference types="react" />
-import { Locale, MenuItem } from '../../navbar';
+import { Locale, MenuItem, NavbarTheme } from '../../navbar';
 interface INavbarUserConfig {
     userImg?: string;
     userName?: string;
@@ -27,6 +27,7 @@ export interface IStoreInfoProps {
 export interface ILanguageButtonProps {
     locales?: Locale[];
     className?: string;
+    theme?: NavbarTheme;
 }
 export {};
 //# sourceMappingURL=index.d.ts.map

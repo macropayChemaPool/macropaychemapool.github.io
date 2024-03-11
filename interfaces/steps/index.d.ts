@@ -10,7 +10,7 @@ export interface ISteps {
 export interface IContentStep {
     id: string;
     name: string;
-    href: string;
-    status: string;
+    href?: string;
+    status: "COMPLETE" | "CURRENT" | "PENDING" | "UPCOMING";
 }
 //# sourceMappingURL=index.d.ts.map

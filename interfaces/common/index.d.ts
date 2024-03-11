@@ -14,4 +14,5 @@ export interface IResponsive<T> {
 }
 export type Generic<T> = T | [T, IResponsive<T>];
 export type TGapAllowed = 0 | 0.5 | 1 | 1.5 | 2 | 2.5 | 3 | 3.5 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12;
+export type HeightSpacing = 24 | 32 | 40 | 48 | 64 | 80 | 96;
 //# sourceMappingURL=index.d.ts.map
