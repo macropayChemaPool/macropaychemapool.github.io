@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/lib/interfaces/alert/index.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,IAAI,GAAG,SAAS,GAAG,MAAM,GAAG,SAAS,GAAG,OAAO,CAAA;AAE3D,MAAM,WAAW,MAAM;IACrB,OAAO,EAAE,MAAM,CAAA;IACf,QAAQ,CAAC,EAAE,OAAO,CAAA;IAClB,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,IAAI,CAAC,EAAE,IAAI,CAAA;CACZ"}

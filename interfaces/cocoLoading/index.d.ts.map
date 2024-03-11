@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/lib/interfaces/cocoLoading/index.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,EAAE,EAAE,QAAQ,EAAE,MAAM,OAAO,CAAA;AAEpC,MAAM,MAAM,gBAAgB,GAAG;IAC7B,IAAI,EAAE,EAAE,CAAC,QAAQ,CAAC,aAAa,CAAC,CAAC,CAAA;IACjC,MAAM,EAAE,MAAM,CAAA;IACd,QAAQ,EAAE,MAAM,CAAA;CACjB,CAAA"}
