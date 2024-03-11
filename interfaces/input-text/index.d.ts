@@ -7,6 +7,8 @@ export interface IInputText {
     htmlType?: HtmlType;
     defaultValue?: string;
     size?: Size;
+    maxlength?: number;
+    minlength?: number;
     name?: string;
     startIcon?: ReactNode;
     disabled?: boolean;

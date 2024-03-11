@@ -16,5 +16,6 @@ export interface ISelect extends ICommonProps {
     disabled?: boolean;
     readOnly?: boolean;
     required?: boolean;
+    onChange?(value: TOption): void;
 }
 //# sourceMappingURL=index.d.ts.map

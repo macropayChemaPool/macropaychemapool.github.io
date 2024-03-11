@@ -1,0 +1,5 @@
+import{a as o}from"./index-urtjtZHS.js";import{j as e}from"./jsx-runtime-CKrituN3.js";import"./index-CBqU2yxZ.js";import{S as i,a as p,b as m,c as n}from"./squares-CzYWx29c.js";import"./index-GUbbRBGF.js";import"./index-BhQbnsnk.js";import"./clsx-B-dksMZM.js";import"./_commonjsHelpers-BosuxZz1.js";const c=[{key:"handQR",description:"Revisa que no esté minimizado en la barra de tareas",icon:e.jsx(i,{className:"text-primary-blue"})},{key:"Loading",description:"No des clic ni cierres el programa",icon:e.jsx(p,{className:"text-primary-blue"})},{key:"Denied",description:"SSS",icon:e.jsx(m,{className:"text-primary-blue"})},{key:"Squares",description:"",icon:e.jsx(n,{className:"text-primary-blue"})}],j={title:"Components/Steps",component:o,tags:["autodocs"],argTypes:{}},s={args:{steps:c}};var a,r,t;s.parameters={...s.parameters,docs:{...(a=s.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    steps: stepsTest
+  }
+}`,...(t=(r=s.parameters)==null?void 0:r.docs)==null?void 0:t.source}}};const v=["Example"];export{s as Example,v as __namedExportsOrder,j as default};

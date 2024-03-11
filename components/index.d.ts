@@ -13,6 +13,7 @@ export { InputNumberCurrency } from "./input-number-currency";
 export { InputText } from "./input-text";
 export { List } from "./list";
 export { Card } from "./card";
+export { CardStatus } from "./card-status";
 export { Pagination } from "./pagination";
 export { QRCode } from "./qr-code";
 export { Row, Col } from "./grid";
