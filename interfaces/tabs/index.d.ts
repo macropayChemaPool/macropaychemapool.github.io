@@ -8,10 +8,10 @@ export interface ITabItem {
     disabled?: boolean;
 }
 export interface ITabsProps {
-    defaultActiveKey?: string;
+    currentActiveKey: string;
     type?: TypeTabs;
     items: ITabItem[];
-    onChange?: (key: string) => void;
+    onChange: (currentActiveKey: string) => void;
     className?: string;
     activeColorTabs?: string;
 }

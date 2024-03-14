@@ -1,1 +1,1 @@
-{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/lib/components/accordion/index.tsx"],"names":[],"mappings":"AAEA,OAAO,EAEL,UAAU,EAEX,MAAM,wBAAwB,CAAA;AAK/B,eAOA,MAAM,SAAS,mDAKZ,UAAU,KAAG,WAyEf,CAAA"}
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/lib/components/accordion/index.tsx"],"names":[],"mappings":"AACA,OAAO,EAEL,UAAU,EAEX,MAAM,wBAAwB,CAAA;AAK/B,eAOA,MAAM,SAAS,mDAKZ,UAAU,KAAG,WA4Ef,CAAA"}

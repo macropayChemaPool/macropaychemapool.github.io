@@ -1,5 +1,6 @@
 import { Key, ReactNode } from "react";
 import { HeightSpacing, ICommonProps, Size } from "../common";
+import { InputType } from "../input-text";
 export type TOption = {
     value: Key;
     label: string;
@@ -12,7 +13,7 @@ export interface ISelect extends ICommonProps {
     defaultValue?: TOption;
     placeholder?: string;
     size?: Size;
-    type?: "normal" | "underline";
+    type?: InputType;
     error?: string | ReactNode;
     disabled?: boolean;
     readOnly?: boolean;

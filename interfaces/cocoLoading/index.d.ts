@@ -1,6 +1,6 @@
-import { FC, SVGProps } from "react";
+/// <reference types="react" />
 export type CocoLoadingProps = {
-    Logo: FC<SVGProps<SVGSVGElement>>;
+    Logo: React.ReactNode;
     tittle: string;
     subtitle: string;
 };

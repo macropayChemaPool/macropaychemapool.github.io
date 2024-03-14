@@ -10,7 +10,7 @@ interface InputNumberCommon {
     placeholder?: string;
     label?: string;
     clearOnFocus?: boolean;
-    error?: Record<string, string | ReactNode>;
+    error?: string | ReactNode;
     onChange?: (event: React.ChangeEvent<HTMLElement>) => void;
 }
 export interface InputNumberInterface extends InputNumberCommon {

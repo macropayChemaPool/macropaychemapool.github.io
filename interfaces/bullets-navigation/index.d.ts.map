@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/lib/interfaces/bullets-navigation/index.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,qBAAqB;IACpC,IAAI,EAAE,MAAM,CAAA;IACZ,WAAW,CAAC,EAAE,MAAM,CAAA;IACpB,MAAM,CAAC,EAAE,SAAS,GAAG,UAAU,GAAG,UAAU,CAAA;CAC7C;AAED,MAAM,WAAW,uBAAuB;IACtC,KAAK,EAAE,qBAAqB,EAAE,CAAA;CAC/B"}

@@ -34,4 +34,5 @@ export { Skeleton } from "./skeleton";
 export { Navbar } from "../layouts/common/navbar";
 export { Spinner } from "./spinner";
 export { Radio } from "./radio";
+export { BulletsNavigation } from "./bullets-navigation";
 //# sourceMappingURL=index.d.ts.map

@@ -11,7 +11,7 @@ export interface IButton extends ICommonProps {
     icon?: React.ReactNode;
     type?: Type;
     size?: Size;
-    isDisabled?: boolean;
+    disabled?: boolean;
     onClick?: () => void;
     iconPosition?: IconPosition;
     htmlType?: HTMLButtonElement["type"];

@@ -1,5 +1,9 @@
 declare const es: {
     translation: {
+        customerNameCard: {
+            label: string;
+            unknown: string;
+        };
         layout: {
             login: {
                 btnLabel: string;

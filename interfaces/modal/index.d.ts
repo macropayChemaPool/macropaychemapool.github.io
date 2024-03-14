@@ -2,7 +2,7 @@ import { PropsWithChildren } from "react";
 import { IButton } from "../button";
 import { ITitle } from "../typography/title";
 export type ModalType = "default" | "success" | "error" | "warning" | "info";
-export type ModalTitleAling = "center" | "right";
+export type ModalTitleAlign = "center" | "right";
 export interface DialogProps extends PropsWithChildren {
     isOpen: boolean;
     buttonOk?: IButton;
@@ -12,6 +12,7 @@ export interface DialogProps extends PropsWithChildren {
 }
 export interface ModalProps extends DialogProps {
     type?: ModalType;
-    titleAlign?: ModalTitleAling;
+    titleAlign?: ModalTitleAlign;
+    className?: string;
 }
 //# sourceMappingURL=index.d.ts.map

@@ -1,5 +1,9 @@
 declare const en: {
     translation: {
+        customerNameCard: {
+            label: string;
+            unknown: string;
+        };
         header: {
             signOut: string;
             store: string;

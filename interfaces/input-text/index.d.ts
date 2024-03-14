@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 import { Size } from "../common";
-export type InputType = "normal" | "underline" | "underline bold";
+export type InputType = "normal" | "underline";
 export type HtmlType = "text" | "password" | "email" | "number";
 export interface IInputText {
     type?: InputType;
@@ -17,6 +17,7 @@ export interface IInputText {
     className?: string;
     placeholder?: string;
     label?: string;
+    fontBold?: boolean;
     clearOnFocus?: boolean;
     error?: string | ReactNode;
     onChange?: (event: React.ChangeEvent<HTMLElement>) => void;

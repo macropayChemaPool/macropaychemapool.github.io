@@ -2,6 +2,10 @@ import { ResourceKey } from "i18next";
 export declare const resources: {
     es: {
         translation: {
+            customerNameCard: {
+                label: string;
+                unknown: string;
+            };
             layout: {
                 login: {
                     btnLabel: string;
@@ -45,6 +49,10 @@ export declare const resources: {
     };
     en: {
         translation: {
+            customerNameCard: {
+                label: string;
+                unknown: string;
+            };
             header: {
                 signOut: string;
                 store: string;
