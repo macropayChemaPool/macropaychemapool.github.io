@@ -14,6 +14,7 @@ export interface IButton extends ICommonProps {
     disabled?: boolean;
     onClick?: () => void;
     iconPosition?: IconPosition;
+    form?: string;
     htmlType?: HTMLButtonElement["type"];
 }
 //# sourceMappingURL=index.d.ts.map

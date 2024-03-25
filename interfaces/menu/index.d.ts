@@ -7,13 +7,15 @@ export interface IBigButton extends ICommonProps {
     href?: string;
 }
 export type ColorType = "Green" | "Red" | "Purple" | "Aqua" | "Pink" | "Orange" | "Blue" | "Gray";
-export interface ICardItem extends ICommonProps {
+export interface ICardItem extends Omit<ICommonProps, "onClick"> {
     idCardItem: Key;
-    Logo: FC<SVGProps<SVGSVGElement>>;
+    logoCard: ReactNode;
+    logoMenu?: ReactNode;
     text: string;
     bgCard: ColorType;
     children?: IBigButton[];
     href?: string;
+    onClick?: (event: React.MouseEvent<HTMLDivElement, MouseEvent>) => void;
 }
 export interface IMenuContent {
     title?: string | ReactNode;

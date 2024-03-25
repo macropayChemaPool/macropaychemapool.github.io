@@ -1,6 +1,6 @@
 import { Key, ReactNode } from "react";
 export interface IStep {
-    key: Key;
+    key?: Key;
     icon: ReactNode;
     description: string;
 }

@@ -17,6 +17,7 @@ export interface LayoutProps extends PropsWithChildren {
     footerProps: FooterProps;
     navbarProps: NavbarProps;
     loading: boolean;
+    className?: string;
 }
 export interface ILayoutWithoutSidebarProps extends PropsWithChildren<ILayoutCommonProps> {
     store?: Omit<IStoreInfo, "className">;
@@ -35,4 +36,5 @@ export interface ILoginLayout {
 }
 export * from "./navbar";
 export * from "./sidebar";
+export * from "./container";
 //# sourceMappingURL=index.d.ts.map

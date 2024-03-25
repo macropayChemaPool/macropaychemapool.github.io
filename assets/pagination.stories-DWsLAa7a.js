@@ -1,0 +1,3 @@
+import{P as e}from"./index-CUpT5qUY.js";import"./jsx-runtime-CKrituN3.js";import"./index-CBqU2yxZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./extends-CCbyfPlC.js";import"./index-VmM7UL7m.js";import"./classNames-CoONMu-Z.js";const g={title:"Components/Pagination",component:e,tags:["autodocs"],argTypes:{}},o={args:{}};var r,t,a;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  args: {}
+}`,...(a=(t=o.parameters)==null?void 0:t.docs)==null?void 0:a.source}}};const l=["Example"];export{o as Example,l as __namedExportsOrder,g as default};

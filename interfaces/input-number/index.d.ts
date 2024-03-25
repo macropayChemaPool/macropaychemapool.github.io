@@ -4,6 +4,7 @@ interface InputNumberCommon {
     size?: Size;
     name?: string;
     disabled?: boolean;
+    defaultValue?: number;
     readOnly?: boolean;
     required?: boolean;
     className?: string;

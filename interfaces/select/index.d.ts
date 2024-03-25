@@ -20,5 +20,6 @@ export interface ISelect extends ICommonProps {
     required?: boolean;
     listHeight?: HeightSpacing;
     onChange?(value: TOption): void;
+    onSearch?(value: string): void;
 }
 //# sourceMappingURL=index.d.ts.map

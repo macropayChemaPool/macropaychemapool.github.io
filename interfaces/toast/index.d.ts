@@ -21,6 +21,7 @@ export interface ToastProps extends PropsWithChildren {
     isOpen: boolean;
     type?: ToastType;
     isClosable?: boolean;
+    timeOut?: number;
     title?: string;
     onClose?: () => void;
     position?: number;

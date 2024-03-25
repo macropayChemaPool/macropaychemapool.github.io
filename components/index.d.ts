@@ -27,7 +27,7 @@ export { Tabs } from "./tabs";
 export { Table, TableWithCheckbox, TableWithDocsApi, TableWithSort, } from "./table";
 export { Title } from "./typography";
 export { Tooltip } from "./tooltip";
-export { CustomModal } from "./modal";
+export { CustomModal, Modal } from "./modal";
 export { Avatar } from "./avatar";
 export { Divider } from "./divider";
 export { Skeleton } from "./skeleton";

@@ -2,7 +2,7 @@ import { ReactNode } from "react";
 import { Direction, Generic, ICommonProps, TGapAllowed } from "../common";
 export type JustifyContent = "start" | "center" | "end" | "between" | "around" | "evenly";
 export type AlignItems = "start" | "center" | "end" | "baseline";
-export interface IFlex extends ICommonProps {
+export interface IFlex extends Omit<ICommonProps, "onClick"> {
     children: ReactNode;
     justify?: Generic<JustifyContent>;
     align?: Generic<AlignItems>;
@@ -10,6 +10,7 @@ export interface IFlex extends ICommonProps {
     direction?: Direction;
     isReverse?: boolean;
     wrap?: boolean;
+    onClick?: (event: React.MouseEvent<HTMLDivElement, MouseEvent>) => void;
 }
 export declare enum EPrefixFlex {
     justify = "justify",

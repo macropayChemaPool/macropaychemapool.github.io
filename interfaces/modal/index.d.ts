@@ -15,4 +15,11 @@ export interface ModalProps extends DialogProps {
     titleAlign?: ModalTitleAlign;
     className?: string;
 }
+export interface IModalProps extends DialogProps {
+    header?: React.ReactNode;
+    message?: string;
+    type?: ModalType;
+    titleAlign?: ModalTitleAlign;
+    className?: string;
+}
 //# sourceMappingURL=index.d.ts.map
