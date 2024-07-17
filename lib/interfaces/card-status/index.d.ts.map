@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/lib/interfaces/card-status/index.ts"],"names":[],"mappings":";AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAA;AAEnC,MAAM,MAAM,eAAe,GAAG;IAC5B,IAAI,CAAC,EAAE,KAAK,CAAC,SAAS,CAAA;IACtB,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,QAAQ,CAAC,EAAE,MAAM,CAAA;IACjB,QAAQ,CAAC,EAAE,OAAO,CAAA;CACnB,CAAA"}

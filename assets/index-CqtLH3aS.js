@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime-CKrituN3.js";const t=({contend:e})=>o.jsx("footer",{className:"text-center bottom-0 w-100 py-4 px-6 text-grays-Macropay-05",children:e});try{t.displayName="Footer",t.__docgenInfo={description:"",displayName:"Footer",props:{contend:{defaultValue:null,description:"",name:"contend",required:!0,type:{name:"ReactNode"}}}}}catch{}export{t as F};

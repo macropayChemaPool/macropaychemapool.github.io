@@ -1,0 +1,23 @@
+import{j as o}from"./jsx-runtime-CKrituN3.js";import{F as e}from"./index-IKkC8jR6.js";import{C as c}from"./index-vBKB_eRL.js";import{B as g}from"./index-BVZLexmJ.js";import"./index-BSZ6HaKa.js";import"./index-CD_jVu0m.js";import"./index-p0jS0Vkr.js";import"./index-DIwAYYUA.js";import"./index-DwLwwla0.js";import"./index-AKvBJBpT.js";import"./index-DJej9ukk.js";import"./index-mky2RytA.js";import"./index-DXEnVRSn.js";import"./index-DXlDdgoQ.js";import"./index-BjNHhc96.js";import"./index-BNMX3XEH.js";import"./index-C3Z1soji.js";import"./index-zRcuZCV5.js";import"./index-6XZfZBOw.js";import"./index-CuDHkTr1.js";import"./index-CJ33g0_J.js";import"./index-DMpQw-vB.js";import"./index-Ci0M9How.js";import"./index-D8M4WgYd.js";import"./index-_uA0Iphp.js";import"./index-C5U_xphb.js";import"./index-DqBp58f5.js";import"./index-C-QEOkfH.js";import"./index-D0CEKIh4.js";import"./index-B9uoawT1.js";import"./index-DEBQXPbV.js";import{T as u}from"./index-Cgph5szl.js";import"./index-MLE72NiV.js";import"./index-xkUtCLJl.js";import"./index-gq-3YsZg.js";import"./index-BS1-a123.js";import"./index-C2YwbafU.js";import"./index-DoOvTBki.js";import"./index-DODEPqAU.js";import"./index-GnvDTAUE.js";import"./index-BmpHqVfh.js";import"./index-B2lXgc8S.js";import"./index-BuFebpyZ.js";import"./index-B6Zrd_5s.js";import{u as d}from"./useTranslation-GCZZtW1t.js";import"./index-CBqU2yxZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./classNames-DY9r7t_J.js";import"./clsx-B-dksMZM.js";import"./arrow-mp-CrGFeibr.js";import"./info-circle-TApl4-4t.js";import"./check-B5O8_k_f.js";import"./index-Dmv3E6R1.js";import"./index-BN-jaSRk.js";import"./index-BBeAxNTk.js";import"./store-Co352TV1.js";import"./index-Fp_I180m.js";import"./transition-BDdlExqH.js";import"./index.browser-DP16PUbO.js";import"./keyboard-B5upkSX_.js";import"./use-owner-BuQqy2kA.js";import"./use-text-value-DqQEW2an.js";import"./use-tree-walker-B-9c0BuR.js";import"./MX-1k0A0kB5.js";import"./index-DHzGF3Q-.js";import"./close-rI1dvE4l.js";import"./dialog-VZvtz3bU.js";import"./active-element-history-DM4WbiwA.js";import"./hidden-CN1vEaDl.js";import"./index-BtM5VmRH.js";import"./done-C82prHqh.js";import"./info-BN42PO8v.js";import"./slicedToArray-B2FWUPQC.js";import"./extends-CF3RwP-h.js";import"./down-CBhbPet_.js";import"./form-DdjUVvU2.js";import"./index-CT_AGQEv.js";import"./motion-C2-VAH6j.js";import"./index-Pd4Qji_3.js";import"./index-L-zI6vNv.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-BGn3u_Cr.js";import"./context-DPnKhrhb.js";const i=({title:r,logo:a,onClick:s})=>{const{t:l}=d();return o.jsx("div",{className:"w-full h-svh bg-logo bg-no-repeat bg-center",children:o.jsx(e,{className:"w-full h-svh bg-grays-Macropay-02 bg-opacity-95",direction:"vertical",justify:"center",align:"center",children:o.jsx(c,{className:"max-[610px]:w-[90%] w-[511px] h-[357px] p-4 sm:p-8 md:p-12 border-none",children:o.jsxs(e,{className:"w-full h-full gap-12",direction:"vertical",justify:"center",align:"center",children:[o.jsx("img",{className:"h-[66.55px]",src:a,alt:"login-logo"}),r&&o.jsx(u,{level:2,className:"text-center text-grays-Macropay-07",children:r}),o.jsx(g,{size:"xl",onClick:s,children:l("layout.login.btnLabel")})]})})})})};try{i.displayName="LoginLayout",i.__docgenInfo={description:`Define in your tailwind.config.ts
+
+If you want to use an image as background, configure the file 🔼
+
+Add image file into public folder
+for example: \`URL_PUBLIC\` = \`/images/background.('png' | 'svg' | 'jpg')\`
+
+\`\`\`ts
+const config: Config = {
+ theme: {
+   extend: {
+     backgroundImage: {
+       logo: url(URL_PUBLIC)
+     }
+   }
+ }
+}
+\`\`\``,displayName:"LoginLayout",props:{logo:{defaultValue:null,description:"",name:"logo",required:!0,type:{name:"string"}},title:{defaultValue:null,description:"",name:"title",required:!1,type:{name:"string"}},onClick:{defaultValue:null,description:"",name:"onClick",required:!1,type:{name:"(() => void)"}}}}}catch{}const Go={title:"Components/Layout/LoginLayout",component:i,tags:["autodocs"],parameters:{deepControls:{enabled:!0}}},t={args:{logo:"https://assets-global.website-files.com/64760069e93084646c9ee428/64760069e93084646c9ef2a2_icon_logoipsum-original.svg",title:"Sistema teléfonos con Microsoft Azure"}};var m,p,n;t.parameters={...t.parameters,docs:{...(m=t.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    logo: "https://assets-global.website-files.com/64760069e93084646c9ee428/64760069e93084646c9ef2a2_icon_logoipsum-original.svg",
+    title: "Sistema teléfonos con Microsoft Azure"
+  }
+}`,...(n=(p=t.parameters)==null?void 0:p.docs)==null?void 0:n.source}}};const Ho=["Example"];export{t as Example,Ho as __namedExportsOrder,Go as default};

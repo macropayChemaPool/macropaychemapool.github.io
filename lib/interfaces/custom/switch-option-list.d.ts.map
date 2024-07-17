@@ -1,0 +1,1 @@
+{"version":3,"file":"switch-option-list.d.ts","sourceRoot":"","sources":["../../../../src/lib/interfaces/custom/switch-option-list.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,iBAAiB,CAAA;AAEzD,MAAM,WAAW,sBAAsB;IACrC,OAAO,EAAE,IAAI,CAAC,kBAAkB,EAAE,UAAU,CAAC,EAAE,CAAA;IAC/C,QAAQ,CAAC,EAAE,kBAAkB,CAAC,UAAU,CAAC,CAAA;CAC1C"}

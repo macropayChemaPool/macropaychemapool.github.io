@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/lib/interfaces/card/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,OAAO,CAAA;AAEzC,MAAM,MAAM,SAAS,GAAG,UAAU,GAAG,YAAY,CAAA;AAEjD,MAAM,WAAW,UAAW,SAAQ,iBAAiB;IACnD,SAAS,CAAC,EAAE,MAAM,CAAA;IAClB,KAAK,CAAC,EAAE,SAAS,CAAA;CAClB"}
